@@ -1,0 +1,24 @@
+{
+  "name": "jw",
+  "version": "8.26.7",
+  "description": "Jw Player Mod",
+  "main": "jwplayer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadyjeff/jw.git"
+  },
+  "keywords": [
+    "jwplayer",
+    "youtube",
+    "vimeo"
+  ],
+  "author": "Shady Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadyjeff/jw/issues"
+  },
+  "homepage": "https://github.com/shadyjeff/jw#readme"
+}
