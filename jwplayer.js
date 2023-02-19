@@ -3323,8 +3323,7 @@
                         return ""
                     },
                     s = function() {
-                        const e = "//nadeemsarwar.net/jwplayer/8.26.7";
-                        return `${(0,i.isFileProtocol)()?"https:":""}${e}`
+                        return o("jwplayer.js")
                     },
                     a = function(e) {
                         const t = `0${e}`.split(/\W/),
